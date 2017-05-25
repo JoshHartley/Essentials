@@ -3,9 +3,9 @@ package com.earth2me.essentials.perm;
 import java.util.Arrays;
 import java.util.List;
 import org.bukkit.entity.Player;
-import ru.tehkode.permissions.PermissionManager;
-import ru.tehkode.permissions.PermissionUser;
-import ru.tehkode.permissions.bukkit.PermissionsEx;
+import modified.ru.tehkode.permissions.PermissionManager;
+import modified.ru.tehkode.permissions.PermissionUser;
+import modified.ru.tehkode.permissions.bukkit.PermissionsEx;
 
 
 public class PermissionsExHandler extends SuperpermsHandler
